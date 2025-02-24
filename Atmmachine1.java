@@ -2,7 +2,7 @@ package codsoft;
 import java.util.*;
 class BankAccount {
 	double balance;
-	public BankAccount(double initialbal) {
+	public BankAccount(double initialbal) { 
 	  this.balance=initialbal;
 	}
 	void checkbalance() {
